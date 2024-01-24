@@ -1,30 +1,5 @@
-# SmartCalc v1.0
-
-> При старте работы над проектом просим тебя постараться хронометрировать время работы над проектом.
-> По завершении работы над проектом, пожалуйста, ответь на два вопроса [в этом опросе](https://forms.gle/MAxcabZjBPmTmhPv5)
-
-Implementation of SmartCalc v1.0.
-
-The russian version of the task can be found in the repository.
-
-
-## Contents
-
-0. [Preamble](#preamble)
-1. [Chapter I](#chapter-i) \
-   1.1. [Introduction](#introduction)
-2. [Chapter II](#chapter-ii) \
-   2.1. [Information](#information)
-3. [Chapter III](#chapter-iii) \
-   3.1. [Part 1](#part-1-implementation-of-smartcalc-v10)  
-   3.2. [Part 2](#part-2-bonus-credit-calculator)  
-   3.3. [Part 3](#part-3-bonus-deposit-calculator)
-
 
 ## Preamble
-
-![SmartCalc](misc/eng/images/smartcalc.jpg)
-
 Planet Earth, August 5, 1983.
 
 Muffled footsteps quickly approached the room. Strange, as if this person was barefoot. A sudden stop at the door, some inarticulate dialogue, apparently with a passerby... then the door opened and he entered. Looking around the room, he quickly grabbed a couple of people from the crowd, who were discussing something, and gestured for them to follow him.
@@ -226,20 +201,14 @@ The SmartCalc v1.0 program must be implemented:
       | Computes natural logarithm | ln(x) |
       | Computes common logarithm | log(x) |
 
-
 ## Part 2. Bonus. Credit calculator
 
 Provide a special mode "credit calculator" (you can take banki.ru and calcus.ru as an example):
 - Input: total credit amount, term, interest rate, type (annuity, differentiated);
 - Output: monthly payment, overpayment on credit, total payment.
 
-
 ## Part 3. Bonus. Deposit calculator
 
 Provide a special mode "deposit profitability calculator" (you can take banki.ru and calcus.ru as an example):
 - Input: deposit amount, deposit term, interest rate, tax rate, periodicity of payments, capitalization of interest, replenishments list, partial withdrawals list;
 - Output: accrued interest, tax amount, deposit amount by the end of the term.
-
-
-
-💡 [Tap here](https://forms.yandex.ru/cloud/6418155a6938722388a12878/) **to leave your feedback on the project**. Product Team really tries to make your educational experience better.
